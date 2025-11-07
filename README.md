@@ -96,3 +96,6 @@ This exercise introduced fundamental Unity mechanics:
 * Shadow/light configuration
 
 > Ideal for beginners to gain intuition on how scripting and Unity components interact in real-time 3D scenes.
+
+## Itch.io site
+Link: https://amitnachum.itch.io/weekly-assignment-2
